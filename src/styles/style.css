@@ -14,14 +14,14 @@ header {
     justify-content: center;
     align-items: center;
     gap: 15px;
-    font-size: 15px;
+    font-size: 10px;
     font-style: italic;
     
 }
 
 .header-title img {
-    width: 85px;
-    height: 85px;
+    width: 75px;
+    height: 75px;
 }
 
 header nav {
@@ -33,7 +33,7 @@ header nav {
 }
 
 header nav a {
-    font-size: 25px;
+    font-size: 18px;
     color: black;
 }
 
@@ -50,8 +50,8 @@ main {
 }
 
 main img {
-    width: 750px;
-    height: 550px;
+    width: 480px;
+    height: 450px;
     border-radius: 15%;
 }
 
